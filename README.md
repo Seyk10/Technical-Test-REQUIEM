@@ -53,7 +53,6 @@ As the creation of a TDD document is out of scope, the references to specific do
 
 - [Systems & Classes Structure](docs/framework_structure.md), related patterns described here.
 - [Enemy Example](docs/enemy.md), related patterns described here.
-- [Project Scalability](docs/scalability)
 
 # Usage
 # Support
