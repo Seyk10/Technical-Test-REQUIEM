@@ -1,12 +1,11 @@
-# Technical Test - RÉQUIEM
+# Technical Portfolio-Design System and Enemy
 
 # Index
 
 > [!Caution]
-> Only the sections of interest for this test are listed.
 > Some sections of this README are empty to avoid overextending the scope of this repository.
 
-- [Technical Test - RÉQUIEM](#technical-test---réquiem)
+- [Technical Portfolio-Design System and Enemy](#technical-portfolio-design-system-and-enemy)
 - [Index](#index)
 - [Description](#description)
   - [General Practices](#general-practices)
@@ -15,13 +14,11 @@
 
 # Description
 
-The purpose of this GitHub repository is to share general technical knowledge related to the requirements specified.
+The purpose of this GitHub repository is to share general technical knowledge. Areas covered are:
 
-> [!Note]
-> - Cómo estructurarías tú el sistema de “enemigo purificable”, (estado normal → aturdido por Pulse → purificado).
-> - Cómo organizarías las clases/sistemas (Player, Enemy, EmotionalState, etc.).
-> - Qué patrón usarías (State Machine, Scriptable Objects, eventos, etc.).
-> - Una frase sobre cómo afrontarías la escalabilidad del proyecto.
+- General introduction to a technical documentation and designs.
+- Basic organization of systems & classes.
+- Enemy design example.
 
 General quality mentions will also be made, such as git practices[^1] guide or code style[^1] guidelines, to represent hypothetical technical documentation.
 
@@ -49,7 +46,7 @@ For this project, Unity 3D will be used as the game engine. For the installation
 
 # TDD Content
 
-As the creation of a TDD document is out of scope, the references to specific documents for the requirements will be provided directly here.
+As the creation of a TDD document is out of scope, the references to specific documents for this repository will be provided directly here.
 
 - [Systems & Classes Structure](docs/framework_structure.md), related patterns described here.
 - [Enemy Example](docs/enemy.md), related patterns described here.
